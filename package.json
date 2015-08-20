@@ -1,0 +1,38 @@
+{
+  "name": "real-time-web-with-node.js",
+  "version": "0.1.0",
+  "description": "The Node.js's tutorial of Codeschool",
+  "main": "twitter-status.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hckhanh/real-time-web-with-node.js.git"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "express",
+    "socket.io",
+    "socket",
+    "tut",
+    "tutorial",
+    "real-time",
+    "web"
+  ],
+  "author": "Khanh Hoang",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/hckhanh/real-time-web-with-node.js/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.3",
+    "mtwitter": "~1.6.4",
+    "ejs": "~2.3.3",
+    "socket.io": "~1.3.6",
+    "nodemon": "~1.4.1",
+    "gulp": "~3.9.0",
+    "redis": "~0.12.1"
+  }
+}
